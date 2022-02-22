@@ -69,11 +69,11 @@ You can deploy this on [HEROKU.COM](https://heroku.com) & [RAILWAY](https://rail
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 # DEVS
-[AK BOT DEVS](https://t.me/Ak_Bot_SupportGroup) & [Ls BOTZ](https://t.me/Ls_Supportz)
+[AK BOT DEVS](https://t.me/Malayalammovie47) & [Ls BOTZ](https://t.me/Malayalmmovie45)
 
 ## CREATOR
  
-* [JOKER TG🇮🇳](https://t.me/IAM_A_JOKER)
+* [JOKER TG🇮🇳](https://t.me/Sajuputhoor)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
